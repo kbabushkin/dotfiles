@@ -1,0 +1,48 @@
+.DS_Store
+
+logs/
+target/
+classes/
+checkouts/
+build/
+bin/
+
+### idea
+.idea/
+*.iml
+*.ipr
+*.iws
+
+### clojure
+.lein-*
+.nrepl-port
+
+### python
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+*.py[co]
+*.egg
+*.egg-info
+
+### java
+*.class
+*.jar
+*.war
+*.ear
+
+### golang
+.glide/
+
+### c
+*.so
+*.dylib
+*.o
+*.obj
+*.test
+*.out
