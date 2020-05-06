@@ -89,7 +89,7 @@ set t_Co=256                  " Enable 256 colors
 set guifont=Monaco:h12
 set encoding=utf-8
 
-colorscheme wombat256
+colorscheme newminimal
 
 " Disable the colorcolumn when switching modes.  Make sure this is the
 " first autocmd for the filetype here
